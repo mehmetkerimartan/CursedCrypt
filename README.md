@@ -145,7 +145,6 @@ This project is for educational purposes.
 ## 👤 Author
 
 **Mehmet Kerim Artan**  
-Student ID: 23120966
 
 ---
 
