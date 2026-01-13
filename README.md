@@ -18,7 +18,6 @@ A third-person action-adventure game built with **Unreal Engine 5.7** featuring 
 
 ### 🗡️ Combat System
 - **Light & Heavy Attacks** with different stamina costs and damage values
-- **Combo System** with animation montages
 - **Hit Reactions** for both player and enemies
 - **Weapon Hitbox Collision** that activates during attack animations
 
