@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Packages
+*.zip
+*.rar
+
+# MacOS
+.DS_Store
+
+# Thumbnails
+*.db
+
+# Editor settings
+*.code-workspace
